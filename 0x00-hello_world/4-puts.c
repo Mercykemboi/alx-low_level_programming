@@ -1,4 +1,4 @@
-#include <stdioh.h>
+#include <stdio.h>
 /**
  * main - Aprogram to print file
  * Return: 0
