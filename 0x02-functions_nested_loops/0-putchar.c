@@ -1,8 +1,8 @@
-#include "main.h"
 /**
- * main- where the code exectutes
- * Return -0 Sucess
+ * main - where code executes
+ * Return 0 success
  */
+#include "main.h"
 int main(void)
 {
 _putchar('_');
