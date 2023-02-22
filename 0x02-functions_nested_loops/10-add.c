@@ -7,10 +7,8 @@
  */
 int add(int n, int b)
 {
-int n;
-int b;
 int x;
 x = add(n,b);
 _putchar('x');
 return (0);
-}
+i}
