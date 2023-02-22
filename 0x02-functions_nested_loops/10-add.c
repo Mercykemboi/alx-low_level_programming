@@ -7,6 +7,8 @@
  */
 int add(int n, int b)
 {
-_putchar(add(n,b));
+int x;
+x = add(n,b);
+_putchar('x');
 return (0);
 }
