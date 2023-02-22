@@ -1,7 +1,7 @@
 /**
- * main - where code executes
- * Return 0 success
- */
+* main -> main function
+* Return: 0 success
+*/
 #include "main.h"
 int main(void)
 {
