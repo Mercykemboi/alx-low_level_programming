@@ -1,10 +1,10 @@
 #ifndef DOG_H
 #define DOG_H
 /**
- * main - where the code is executed
- *@name first field
- *@age second field
- *@owner third field
+ *struct dog - where the code is executed
+ *@name :first field
+ *@age :second field
+ *@owner :third field
  *
  */
 struct dog
